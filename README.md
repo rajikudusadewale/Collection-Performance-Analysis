@@ -9,7 +9,7 @@ and increase its recovery of outstanding debts. By analyzing key metrics such as
 
 **•	Data Cleaning** 
 
-Used Excel and R for data cleaning. In the transaction Table, all Transaction dates for interest payments were recorded as text/characters. Importing such data to Power BI will show an error. Decided to use R with the use of the Lubridate library to convert the column to a datatype that will allow any date functions to be carried out. 
+Used Excel and R for data cleaning. In the transaction Table, all Transaction dates for interest payments were recorded as text/characters. Importing such data to Power BI would show an error. Decided to use R with the use of the Lubridate library to convert the column to a datatype that will allow any date functions to be carried out. 
 
 **•	Data Joining**
 
@@ -20,6 +20,8 @@ Then joined the transaction table in Excel,
 Changed columns to appropriate data types that fit the aim of the analysis and performed neccessary manipulation.Carried out data visualization using Power BI to create a Collection Performance Dashboard.
 
 ![Dashboard](https://github.com/rajikudusadewale/Collection-Performance-Analysis/blob/main/Dashboard%20screenshot.jpg)
+
+[**You can interact with the dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiYjdmNjY5M2EtMzA5MS00ZjdkLTkwYmEtNmViOTMzZjkzZWFlIiwidCI6IjM3NzY1MTAyLWQwZjgtNDJmYi05NTQ3LTY1ZTAwMTllZDk1ZiJ9)
 ### Trends and Insights
 
 	The line chart showing the balance over time indicates that there is an up-and-down trend in the balance for the top 5 product types. The fluctuating trend in the balance for the top 5 product types indicates that the collection strategy is average.
