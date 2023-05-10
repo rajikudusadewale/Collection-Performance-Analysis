@@ -19,6 +19,7 @@ Then joined the transaction table in Excel,
 
 Changed columns to appropriate data types that fit the aim of the analysis and performed neccessary manipulation.Carried out data visualization using Power BI to create a Collection Performance Dashboard.
 
+![Dashboard](https://github.com/rajikudusadewale/Collection-Performance-Analysis/blob/main/Dashboard%20screenshot.jpg)
 ### Trends and Insights
 
 	The line chart showing the balance over time indicates that there is an up-and-down trend in the balance for the top 5 product types. The fluctuating trend in the balance for the top 5 product types indicates that the collection strategy is average.
