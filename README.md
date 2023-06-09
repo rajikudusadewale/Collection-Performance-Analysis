@@ -81,11 +81,11 @@ The bar charts showing the 5 top customers with the highest and lowest outstandi
 
 •	Overall, these metrics can provide valuable insights into the performance of the collection strategy and identify areas that may require further attention or improvement.
 
-### Conclusion
+#### Conclusion
 
 The collection strategy is at the average. Most customers enter arrears after missing a repayment on their debt within the years. The high concentration of customers using one specific product indicates an opportunity to expand the product portfolio and diversify the customer base. Both Repayments and interest transaction take up 50% each of all the total transactions done for the years. The variation in transaction amounts and default rate percentage by product type requires further investigation to determine the underlying reasons for the differences. 
 
-### Recommendations
+#### Recommendations
 
 
 •	Optimizing the current collection strategy will give way to an effective strategy for reducing the outstanding debt owed by customers. 
