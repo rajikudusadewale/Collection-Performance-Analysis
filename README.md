@@ -17,7 +17,7 @@ Then joined the transaction table in Excel,
 
 **•	Data Presentation** 
 
-Changed columns to appropriate data types that fit the aim of the analysis and performed neccessary manipulation.Carried out data visualization using Power BI to create a Collection Performance Dashboard.
+Changed columns to appropriate data types that fit the aim of the analysis and performed necessary manipulation.Carried out data visualization using Power BI to create a Collection Performance Dashboard.
 
 ![Dashboard](https://github.com/rajikudusadewale/Collection-Performance-Analysis/blob/main/Dashboard%20screenshot.jpg)
 
@@ -26,7 +26,7 @@ Changed columns to appropriate data types that fit the aim of the analysis and p
 
 	The line chart showing the balance over time indicates that there is an up-and-down trend in the balance for the top 5 product types. The fluctuating trend in the balance for the top 5 product types indicates that the collection strategy is average.
 
-	The line chart showing the default date count and date of default indicates that there is an increase in default rate mostly from December to January
+	The line chart showing the default date count and date of default indicates that there is an increase in default rate, mostly from December to January.
 
 	The Bar chart shows that the most used product is the Master card with 20% of overall customers, and it has transacted the most. 
 
@@ -36,23 +36,23 @@ Changed columns to appropriate data types that fit the aim of the analysis and p
 
 	But the right chart shows that the product type with the highest number of defaults and customers differs from the product with the highest default rate.
 
-	Visa product has the highest default rate percentage compared to the master card with a higher number of customers and default count
+	Visa product has the highest default rate percentage compared to the master card, with a higher number of customers and default count.
 
-	most customers enter arrears after missing a repayment on their debt within the years. There has been an increase in the trend of debt counts over the years.
+	Most customers enter arrears after missing a repayment on their debt within the years. There has been an increase in the trend of debt counts over the years.
 
 	The left chart shows the top 5 customer IDs with the highest outstanding debts in 2021.
 
 	While the right chart shows the customer IDs with the lowest outstanding debts
 
-	The bar charts for the top 5 customers with the highest and lowest outstanding debts provide insight into individual customer behavior
+	The bar charts for the top 5 customers with the highest and lowest outstanding debts provide insight into individual customer behaviour.
 
 	The Total Number of Customers has been increasing gradually over the years.
 
-	The Total Transactions have increased over the years, but more data is still needed for validation
+	The Total Transactions have increased over the years, but more data is still needed for validation.
 
 	The Total Balance has been fluctuating over the years.
 
-	The Total Amount has been fluctuating between years.
+	The Total Amount has been fluctuating over the years.
 
 ### Patterns
 
@@ -62,7 +62,7 @@ Changed columns to appropriate data types that fit the aim of the analysis and p
 
 	A majority of customers are using one specific product.
 
-### Key Areas of Interests
+### Key Areas of Interest
 
 **•	Default rates** 
 
@@ -70,20 +70,20 @@ The clustered column chart showing the number of customers that use each product
 
 **•	Product performance**
 
-The line chart showing the balance over time, broken down by top 5 product type is a useful tool to identify trends in balances by product. If there are any significant differences in performance between products, it may indicate a need to adjust collection strategies or marketing efforts.
+The line chart showing the balance over time, broken down by the top 5 product types, is useful for identifying balance trends by product. If there are any significant differences in performance between products, it may indicate a need to adjust collection strategies or marketing efforts.
 
-**•	Repayment vs. Interest** 
-The donut chart showing the percentage of transaction type (either repayment or interest) is an important metric to track. If the proportion of interest payments is increasing over time, it may indicate that customers are struggling to make payments, and further action may be necessary.
+**•	Repayment vs Interest** 
+The doughnut chart showing the percentage of transaction type (either repayment or interest) is an important metric to track. If the proportion of interest payments increases over time, it may indicate that customers are struggling to make payments, and further action may be necessary.
 
 **•	Top customers** 
 
-The bar charts showing the 5 top customers with the highest and lowest outstanding debts is useful for identifying customers who may need additional attention. It is important to ensure that high-risk customers are receiving the support they need to avoid defaulting on their loans.
+The bar charts showing the 5 top customers with the highest and lowest outstanding debts are useful for identifying customers needing additional attention. It is important to ensure that high-risk customers receive the support they need to avoid defaulting on their loans.
 
 •	Overall, these metrics can provide valuable insights into the performance of the collection strategy and identify areas that may require further attention or improvement.
 
 #### Conclusion
 
-The collection strategy is at the average. Most customers enter arrears after missing a repayment on their debt within the years. The high concentration of customers using one specific product indicates an opportunity to expand the product portfolio and diversify the customer base. Both Repayments and interest transaction take up 50% each of all the total transactions done for the years. The variation in transaction amounts and default rate percentage by product type requires further investigation to determine the underlying reasons for the differences. 
+The collection strategy is average. Most customers enter arrears after missing a repayment on their debt within the years. The high concentration of customers using one specific product indicates an opportunity to expand the product portfolio and diversify the customer base. Both Repayments and interest transactions take up 50% each of all the total transactions done for the years. The variation in transaction amounts and default rate percentage by product type requires further investigation to determine the underlying reasons for the differences. 
 
 #### Recommendations
 
@@ -98,7 +98,7 @@ The collection strategy is at the average. Most customers enter arrears after mi
 
 •	The product type with the highest number of defaults requires closer monitoring and intervention.
 
-•	The concentration of defaults around the end of the year suggests that seasonal factors may contribute to financial difficulties for customers, which should be taken into account in collection strategies.
+•	The concentration of defaults around the end of the year suggests that seasonal factors may contribute to financial difficulties for customers, which should be considered in collection strategies.
 
 •	The transaction amounts for each product type can inform marketing and promotional strategies to encourage more spending on loans with lower transaction amounts.
 
