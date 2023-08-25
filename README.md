@@ -92,11 +92,11 @@ The collection strategy is average. Most customers enter arrears after missing a
 
 •	Encourage customers to make repayments on time to reduce the number of customers entering arrears after missing a repayment on their debt. 
 
-•	The product team should explore opportunities to expand the product portfolio to attract new customers and reduce reliance on a single product.
+•	The product team should explore opportunities to expand the portfolio to attract new customers and reduce reliance on a single product.
 
 •	Further analysis should be conducted to understand the drivers of variation in transaction amounts and default rate percentage by product type.
 
-•	The product type with the highest number of defaults requires closer monitoring and intervention.
+•	The product type with the highest defaults requires closer monitoring and intervention.
 
 •	The concentration of defaults around the end of the year suggests that seasonal factors may contribute to financial difficulties for customers, which should be considered in collection strategies.
 
